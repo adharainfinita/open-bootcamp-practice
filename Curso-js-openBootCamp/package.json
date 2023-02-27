@@ -1,0 +1,21 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto con node en open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js",
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adharainfinita"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproyect"
+  ],
+  "author": "Adhara Redruello",
+  "license": "ISC"
+}
